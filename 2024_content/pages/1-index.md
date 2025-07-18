@@ -269,16 +269,16 @@ We provide users with three baseline models to help get started. Detailed implem
 ---
 
 ## 📘 Participation and Submission
-
-### 🔑 Registration
+<br>
+#### 🔑 Registration
 - **Teams of 1–5 participants** can register on this page before submitting solutions.
 - **Team freeze deadline**: June 1, 2025.
 
-### 🤝 Solution Submission
+#### 🤝 Solution Submission
 - **Phase I**: Each team can make **6 submissions per week** across **all three tracks**.
 - **Phase II**: Each team can make **10 total submissions** across each track per week.
 
-### 💻 Technical Report Submission
+#### 💻 Technical Report Submission
 Potential winners must submit a **technical report**.
 - The report includes a **solution description** + **code for reproducibility**.
 - **Compliance with challenge rules is required for winning teams**.
