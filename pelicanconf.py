@@ -4,19 +4,19 @@ from __future__ import unicode_literals
 
 import os
 
-AUTHOR = "Kai Sun"
+AUTHOR = "Parth Suresh"
 # SITENAME = u'KDD Cup 2024 CRAG Workshop' #u'KDD Cup 2024 Workshop' #u'Meta KDD Cup 2024'
-SITENAME = "CRAG: Comprehensive RAG Challenge"
+SITENAME = "CRAG-MM Challenge"
 
 if "SITEURL" in os.environ:
     SITEURL = os.environ["SITEURL"]
 else:
-    SITEURL = "https://kddcup24.github.io/"
+    SITEURL = "https://kddcup25.github.io/"
 
 OUTPUT_PATH = "2024/"
 PATH = "2024_content/"
 
-TIMEZONE = "Europe/Paris"
+TIMEZONE = "America/Toronto"
 
 DEFAULT_LANG = "en"
 
@@ -53,7 +53,7 @@ DISPLAY_ARCHIVES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = True
 
-DESCRIPTION = "Meta KDD Cup 2024 Workshop"
+DESCRIPTION = "Meta KDD Cup 2025 Workshop"
 # Links
 # LINKS = [('prorgram committee', '/pages/program-committee.html')]
 # LINKS = ()
