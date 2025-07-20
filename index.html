@@ -249,9 +249,9 @@ All teams that have at least one successful submission in Phase 1 enter Phase 2.
 <li>The network connection will be disabled.</li>
 <li>Each turn in a submission has a strict 10-second timeout. If the model times out during any turn, the entire submission will be considered failed. For submissions made via the batch generation interface, the permitted time is calculated as batch size multiplied by 10 seconds per batch.</li>
 <li>In human evaluation, graders will assess the entire response to determine both answer validity and hallucination. In automatic evaluation, responses will be truncated to the first 75 BPE tokens for scoring purposes.</li>
-<li>Phase 2 submissions will be evaluated on low-resolution (960 width, 1280 height) egocentric images to mimic a real-world challenge. Resolution of normal images remains unchanged.</li>
-<li>To accommodate the expanded test set in Round 2, the maximum allowed evaluation time per submission has been increased from 4 hours to 7.5 hours. Submissions exceeding this limit will be terminated automatically.</li>
 </ul>
+<p>Phase 2 submissions will be evaluated on low-resolution (960 width, 1280 height) egocentric images to mimic a real-world challenge. Resolution of normal images remains unchanged.</p>
+<p>To accommodate the expanded test set in Round 2, the maximum allowed evaluation time per submission has been increased from 4 hours to 7.5 hours. Submissions exceeding this limit will be terminated automatically.</p>
 <h3>🤝 Use of external resources</h3>
 <p>By only providing a small development set, we encourage participants to exploit public resources to build their solutions. However, participants should ensure that the used datasets or models are publicly available and equally accessible to use by all participants. Such a constraint rules out proprietary datasets and models by large corporations. Participants are allowed to re-formulate existing datasets (e.g., adding additional data/labels manually or with Llama models), but award winners are required to make them publicly available after the competition.</p>
 <h3>🔑 Baseline implementation</h3>
