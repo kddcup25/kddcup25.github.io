@@ -330,15 +330,15 @@ To the best of our knowledge, the Meta CRAG-MM challenge is the first MM-RAG cha
 
 ## 📕 References
 
-[1] Qiu et al., "SnapNTell: Enhancing Entity-Centric Visual Question Answering with Retrieval Augmented Multimodal LLM". Available at: [https://aclanthology.org/2024.findings-emnlp.14/](https://aclanthology.org/2024.findings-emnlp.14/)
+[1] Qiu et al., **"SnapNTell: Enhancing Entity-Centric Visual Question Answering with Retrieval Augmented Multimodal LLM"**. Available at: [https://aclanthology.org/2024.findings-emnlp.14/](https://aclanthology.org/2024.findings-emnlp.14/)
 
-[2] Yu et al., "MM-Vet: Evaluating Large Multimodal Models for Integrated Capabilities". Available at: [https://arxiv.org/abs/2308.02490](https://arxiv.org/abs/2308.02490)
+[2] Yu et al., **"MM-Vet: Evaluating Large Multimodal Models for Integrated Capabilities"**. Available at: [https://arxiv.org/abs/2308.02490](https://arxiv.org/abs/2308.02490)
 
-[3] Gao et al., "Retrieval-Augmented Generation for Large Language Models: A Survey". Available at: [https://arxiv.org/abs/2312.10997](https://arxiv.org/abs/2312.10997)
+[3] Gao et al., **"Retrieval-Augmented Generation for Large Language Models: A Survey"**. Available at: [https://arxiv.org/abs/2312.10997](https://arxiv.org/abs/2312.10997)
 
-[4] Yang et al., "CRAG - Comprehensive RAG Benchmark". Available at: [https://proceedings.neurips.cc/paper_files/paper/2024/hash/1435d2d0fca85a84d83ddcb754f58c29-Abstract-Datasets_and_Benchmarks_Track.html](https://proceedings.neurips.cc/paper_files/paper/2024/hash/1435d2d0fca85a84d83ddcb754f58c29-Abstract-Datasets_and_Benchmarks_Track.html)
+[4] Yang et al., **"CRAG - Comprehensive RAG Benchmark"**. Available at: [https://proceedings.neurips.cc/paper_files/paper/2024/hash/1435d2d0fca85a84d83ddcb754f58c29-Abstract-Datasets_and_Benchmarks_Track.html](https://proceedings.neurips.cc/paper_files/paper/2024/hash/1435d2d0fca85a84d83ddcb754f58c29-Abstract-Datasets_and_Benchmarks_Track.html)
 
-[5] Bai et al., "MT-Bench-101: A Fine-Grained Benchmark for Evaluating Large Language Models in Multi-Turn Dialogues". Available at: [https://aclanthology.org/2024.acl-long.401/](https://aclanthology.org/2024.acl-long.401/)
+[5] Bai et al., **"MT-Bench-101: A Fine-Grained Benchmark for Evaluating Large Language Models in Multi-Turn Dialogues"**. Available at: [https://aclanthology.org/2024.acl-long.401/](https://aclanthology.org/2024.acl-long.401/)
 
 <!-- <hr>
 <a href="/pages/organizers.html">Contributors & Acknowledgements</a> -->
