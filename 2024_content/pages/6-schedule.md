@@ -1,6 +1,7 @@
 Title: Workshop
 Date: 2024-07-26
 save_as: pages/schedule.html
+SkipNavBar: 1
 url: pages/schedule.html
 
 <hr>
