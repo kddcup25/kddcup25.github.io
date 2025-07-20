@@ -254,8 +254,10 @@ Moreover, the following restrictions will also be imposed:
 - The network connection will be disabled.
 - Each turn in a submission has a strict 10-second timeout. If the model times out during any turn, the entire submission will be considered failed. For submissions made via the batch generation interface, the permitted time is calculated as batch size multiplied by 10 seconds per batch.
 - In human evaluation, graders will assess the entire response to determine both answer validity and hallucination. In automatic evaluation, responses will be truncated to the first 75 BPE tokens for scoring purposes.
-- Phase 2 submissions will be evaluated on low-resolution (960 width, 1280 height) egocentric images to mimic a real-world challenge. Resolution of normal images remains unchanged.
-- To accommodate the expanded test set in Round 2, the maximum allowed evaluation time per submission has been increased from 4 hours to 7.5 hours. Submissions exceeding this limit will be terminated automatically.
+
+Phase 2 submissions will be evaluated on low-resolution (960 width, 1280 height) egocentric images to mimic a real-world challenge. Resolution of normal images remains unchanged.
+
+To accommodate the expanded test set in Round 2, the maximum allowed evaluation time per submission has been increased from 4 hours to 7.5 hours. Submissions exceeding this limit will be terminated automatically.
 
 ### 🤝 Use of external resources
 
