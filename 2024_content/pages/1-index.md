@@ -20,6 +20,8 @@ You're on vacation, strolling through ancient sites as your smart glasses share 
 
 Wearable devices are revolutionising how we communicate, work, and experience the world. But to be truly valuable in everyday life, they must provide relevant, accurate, and reliable information tailored to users' needs.
 
+---
+
 ## 💬 Introduction
 
 Vision Large Language Models (VLLMs) have undergone significant advancements in recent years, empowering multi-modal understanding and visual question-answering (VQA) capabilities behind smart glasses. Despite the progress, VLLMs still face a major challenge: generating hallucinated answers. Studies have shown that VLLMs encounter substantial difficulties in handling queries involving long-tail entities [[1]](https://aclanthology.org/2024.findings-emnlp.14/); these models also encounter challenges in handling complex queries that require the integration of different capabilities: recognition, OCR, knowledge, and generation [[2]](https://arxiv.org/abs/2308.02490).
@@ -50,7 +52,7 @@ Moreover, CRAG-MM encompasses both **single-turn and multi-turn conversations**,
 There will be two phases in the challenge.
 
 **Phase 1** will be open to all teams who sign up.
-All teams that have at least one successful submission in Phase 1 can enter Phase 2.
+All teams that have at least one successful submission in Phase 1 can Phase 2.
 
 ### Phase 1: Open Competition
 
