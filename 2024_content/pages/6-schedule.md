@@ -57,9 +57,9 @@ url: pages/schedule.html
     </ul>
     <li>[11:10–11:55] Team talk 2-4 (15 min each)</li>
     <ul>
-        <li>Team 2: <b>Talk Name</b> (<a href="">slides</a>)</li>
-        <li>Team 3: <b>Talk Name</b> (<a href="">slides</a>)</li>
-        <li>Team 4: <b>Talk Name</b>  (<a href="">slides</a>)</li>
+        <li>[11:10-11:25] Team 2: <b>Talk Name</b> (<a href="">slides</a>)</li>
+        <li>[11:25-11:40] Team 3: <b>Talk Name</b> (<a href="">slides</a>)</li>
+        <li>[11:40-11:55] Team 4: <b>Talk Name</b>  (<a href="">slides</a>)</li>
     </ul>
 </ul>
 </td></tr>
