@@ -16,15 +16,15 @@ save_as: index.html
 
 ## 🌟 Introducing the Meta CRAG - MM: Comprehensive RAG Benchmark for Multi-modal, Multi-turn Challenge! 🌟
 
-You're on vacation, strolling through ancient sites as your smart glasses share their history. Later, at a local restaurant, they translate the menu, helping you order with confidence. As the day winds down, you head back to the parking lot—no searching, no stress—your glasses pull up an image reminder of exactly where you parked.
+You're on vacation, strolling through ancient sites as your smart glasses share their history. Later, at a local restaurant, they translate the menu, helping you order with confidence. As the day winds down, you head back to the parking lot-no searching, no stress-your glasses pull up an image reminder of exactly where you parked.
 
 Wearable devices are revolutionising how we communicate, work, and experience the world. But to be truly valuable in everyday life, they must provide relevant, accurate, and reliable information tailored to users' needs.
 
 ## 💬 Introduction
 
-Vision Large Language Models (VLLMs) have undergone significant advancements in recent years, empowering multi-modal understanding and visual question-answering (VQA) capabilities behind smart glasses. Despite the progress, VLLMs still face a major challenge: generating hallucinated answers. Studies have shown that VLLMs encounter substantial difficulties in handling queries involving long-tail entities [1]; these models also encounter challenges in handling complex queries that require the integration of different capabilities: recognition, OCR, knowledge, and generation [2].
+Vision Large Language Models (VLLMs) have undergone significant advancements in recent years, empowering multi-modal understanding and visual question-answering (VQA) capabilities behind smart glasses. Despite the progress, VLLMs still face a major challenge: generating hallucinated answers. Studies have shown that VLLMs encounter substantial difficulties in handling queries involving long-tail entities [[1]](https://aclanthology.org/2024.findings-emnlp.14/); these models also encounter challenges in handling complex queries that require the integration of different capabilities: recognition, OCR, knowledge, and generation [[2]](https://arxiv.org/abs/2308.02490).
 
-The Retrieval-Augmented Generation (RAG) paradigm has expanded to accommodate multi-modal (MM) input and demonstrated promise in addressing the knowledge limitation of VLLM. Given an image and a question, an MM-RAG system constructs a search query by synthesizing information from the image and the question, searches external sources to retrieve relevant information, and then provides grounded answers to address the question [3]
+The Retrieval-Augmented Generation (RAG) paradigm has expanded to accommodate multi-modal (MM) input and demonstrated promise in addressing the knowledge limitation of VLLM. Given an image and a question, an MM-RAG system constructs a search query by synthesizing information from the image and the question, searches external sources to retrieve relevant information, and then provides grounded answers to address the question [[3]](https://arxiv.org/abs/2312.10997)
 
 <img src="/images/MM-RAG.png"  width="600">
 
@@ -157,7 +157,7 @@ For each question in the evaluation set, the answer is scored as:
 
 **MULTI-TURN QA**
 
-There is not a dominant way to evaluate answer quality for multi-turn conversations. We adapt the method in [5], which is closest to the information-seeking flavor of conversations (in contrast to task fulfilling). In particular, we stop a conversation when the answers in two consecutive turns are wrong and consider answers to all remaining questions in the same conversation as missing–mimicking the behavior of real users when they lose trust or feel frustrated after repeated failures. We then take the average score of all multi-turn conversations.
+There is not a dominant way to evaluate answer quality for multi-turn conversations. We adapt the method in [[5]](https://aclanthology.org/2024.acl-long.401/), which is closest to the information-seeking flavor of conversations (in contrast to task fulfilling). In particular, we stop a conversation when the answers in two consecutive turns are wrong and consider answers to all remaining questions in the same conversation as missing–mimicking the behavior of real users when they lose trust or feel frustrated after repeated failures. We then take the average score of all multi-turn conversations.
 
 ---
 
@@ -230,7 +230,8 @@ Participants must submit their code and model weights to run on the host's serve
 
 ### 🧭 Model
 
-This KDD Cup requires participants to use Llama models to build their RAG solution. Especially, participants can use or fine-tune the following Llama 3 models from https://llama.meta.com/llama-downloads:
+This KDD Cup requires participants to use Llama models to build their RAG solution. Especially, participants can use or fine-tune the following Llama 3 models from [https://llama.meta.com/llama-downloads](https://llama.meta.com/llama-downloads):
+
 - Llama 3.2 11B
 - Llama 3.2 90B
 
@@ -241,11 +242,13 @@ Any other non-llama models used need to be under 1.5b parameter size limit.
 We set a limit on the hardware available to each participant to run their solution. Specifically,
 
 All submissions will be run on a single G6e instance with a NVIDIA L40s GPU with 48GB of GPU memory on AWS. Please note that:
+
 - Llama 3.2 11B in full precision can run directly.
 - Llama 3.2 90B in full precision cannot be directly run on this GPU instance. Quantization or other techniques need to be applied to make the model runnable.
 - NVIDIA L40s is not using the latest architectures and hence might not be compatible with certain acceleration toolkits, so please make sure the submitted solution is compatible with the configuration.
 
 Moreover, the following restrictions will also be imposed:
+
 - The network connection will be disabled.
 - Each turn in a submission has a strict 10-second timeout. If the model times out during any turn, the entire submission will be considered failed. For submissions made via the batch generation interface, the permitted time is calculated as batch size multiplied by 10 seconds per batch.
 - In human evaluation, graders will assess the entire response to determine both answer validity and hallucination. In automatic evaluation, responses will be truncated to the first 75 BPE tokens for scoring purposes.
@@ -269,7 +272,7 @@ We provide users with three baseline models to help get started. Detailed implem
 ---
 
 ## 📘 Participation and Submission
-<br>
+
 #### 🔑 Registration
 - **Teams of 1–5 participants** can register on this page before submitting solutions.
 - **Team freeze deadline**: June 1, 2025.
@@ -280,6 +283,7 @@ We provide users with three baseline models to help get started. Detailed implem
 
 #### 💻 Technical Report Submission
 Potential winners must submit a **technical report**.
+
 - The report includes a **solution description** + **code for reproducibility**.
 - **Compliance with challenge rules is required for winning teams**.
 
@@ -317,6 +321,8 @@ Organizers of this KDD Cup consists of scientists and engineers from **Meta Real
 ## 🗂️ Related Work
 
 To the best of our knowledge, the Meta CRAG-MM challenge is the first MM-RAG challenge for KDD Cups and broadly. CRAG-MM uniquely features natural uses cases for wearable devices based on egocentric images. Moreover, it encompasses a variety of domains and question types, effectively evaluating different capabilities of MM-RAG systems: entity recognition, OCR, query rewrite, answer generation, and so on. Furthermore, CRAG-MM extends beyond single-turn QA by including multi-turn conversations, a common and critical use case for smart assistant.
+
+<img src="/images/related_work_mm.png"  width="600">
 
 ---
 
