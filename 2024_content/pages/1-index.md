@@ -52,7 +52,7 @@ Moreover, CRAG-MM encompasses both **single-turn and multi-turn conversations**,
 There will be two phases in the challenge.
 
 **Phase 1** will be open to all teams who sign up.
-All teams that have at least one successful submission in Phase 1 can Phase 2.
+All teams that have at least one successful submission in Phase 1 enter Phase 2.
 
 ### Phase 1: Open Competition
 
