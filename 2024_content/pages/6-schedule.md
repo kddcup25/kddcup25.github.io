@@ -31,14 +31,14 @@ url: pages/schedule.html
     <col width="80%" />
     <tbody>
 <tr> <td>07:30-08:00</td> <td>Poster setup</td></tr>
-<tr> <td>08:00–09:00</td> <td>Session 1
+<tr> <td>08:00–09:30</td> <td>Session 1
 <ul>
     <li>[08:00-08:30] Opening remarks and competition summary </li>
     <li>[08:30-09:00] Keynote talk 1</li>
     <ul>
-        <li>Dhruv Batra: <b>Digital Assistants and Web Agents</b></li>
+        <li><b>Dhruv Batra: Digital Assistants and Web Agents</b></li>
     </ul>
-    <li>[09:00-09:30] Team talk 1-2 (15 min each)</li>
+    <li>[09:00-09:30] Team talk 1-2 (15 mins each)</li>
     <ul>
         <li>Team db3</li>
         <li>Team Dianping-Trust-Safety</li>
@@ -46,16 +46,16 @@ url: pages/schedule.html
 </ul>
 </td></tr>
 <tr> <td>09:30-10:00</td> <td>Coffee break & poster session</td></tr>
-<tr> <td>10:00-12:00</td> <td>Session 2
+<tr> <td>10:00-11:55</td> <td>Session 2
 <ul>
     <li>[10:00-10:30] Keynote talk 2 </li>
     <ul>
-        <li>Jianwei Yang: <b> Toward General-Purpose Multimodal Agents: From GUIs to Robots and Beyond
+        <li><b>Jianwei Yang: Toward General-Purpose Multimodal Agents: From GUIs to Robots and Beyond
 </b> </li>
     </ul>
     <li>[10:30-11:00] Keynote talk 3 </li>
     <ul>
-        <li>Jingrui He: <b>To Be Updated</b></li>
+        <li><b>Jingrui He </b></li>
     </ul>
     </ul>
     <li>[11:00-11:05] Q & A </li>

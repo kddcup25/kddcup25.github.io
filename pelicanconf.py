@@ -6,7 +6,8 @@ import os
 
 AUTHOR = "Parth Suresh"
 # SITENAME = u'KDD Cup 2024 CRAG Workshop' #u'KDD Cup 2024 Workshop' #u'Meta KDD Cup 2024'
-SITENAME = "CRAG-MM Challenge: Improve Multimodal RAG with Real-world Benchmarks"
+SITENAME = "Meta CRAG-MM Challenge & Workshop"
+SITESUBTITLE = "Improve Multimodal RAG with Real-world Benchmarks"
 
 if "SITEURL" in os.environ:
     SITEURL = os.environ["SITEURL"]
