@@ -57,7 +57,6 @@ url: pages/schedule.html
     <ul>
         <li><b>Jingrui He </b></li>
     </ul>
-    </ul>
     <li>[11:00-11:05] Q & A </li>
     <li>[11:05–11:35] Team talk 3-4 (15 min each)</li>
     <ul>
