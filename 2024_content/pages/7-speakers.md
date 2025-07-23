@@ -9,11 +9,30 @@ Date: 2025-07-22
     <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
     <div class="col-xs-6 col-md-4">
     <div class="thumbnail">
+        <a href="#dhruv" style="text-decoration: none;">
+        <img
+            src="{static}/images/speakers_200x200/dhruv_batra.jpg"
+            alt="TBA"
+            style="border-radius:50%; width:88%; margin-bottom:10px; display:block; margin-left:auto; margin-right:auto;"
+            align="center">
+        <div class="caption" style="text-align: center; width:88%; margin-left:auto; margin-right:auto;">
+            <h5 style="text-align: center;">Dhruv Batra</h5>
+            <p style="text-decoration:none; text-align: center;">Co-founder and Chief Scientist, Yutori | Prev: Senior Director leading FAIR Embodied AI and Associate Professor at Georgia Tech
+            </p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4">
+    <div class="thumbnail">
         <a href="#jianwei" style="text-decoration: none;">
         <img
             src="{static}/images/speakers_200x200/jianwei_yang.jpg"
             alt="Jianwei Yang"
-            style="width:88%; margin-bottom:10px; display:block; margin-left:auto; margin-right:auto;"
+            style="border-radius:50%; width:88%; margin-bottom:10px; display:block; margin-left:auto; margin-right:auto;"
             align="center">
         <div class="caption" style="text-align: center; width:88%; margin-left:auto; margin-right:auto;">
             <h5 style="text-align: center;">Jianwei Yang</h5>
@@ -24,36 +43,19 @@ Date: 2025-07-22
     </div>
 
 
-    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
-    <div class="col-xs-6 col-md-4">
-    <div class="thumbnail">
-        <a href="#anon" style="text-decoration: none;">
-        <img
-            src="{static}/images/speakers_200x200/anon.jpg"
-            alt="TBA"
-            style="width:88%; margin-bottom:10px; display:block; margin-left:auto; margin-right:auto;"
-            align="center">
-        <div class="caption" style="text-align: center; width:88%; margin-left:auto; margin-right:auto;">
-            <h5 style="text-align: center;">TBA</h5>
-            <p style="text-decoration:none; text-align: center;">TBA
-            </p>
-        </div>
-        </a>
-    </div>
-    </div>
 
     <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
     <div class="col-xs-6 col-md-4">
     <div class="thumbnail">
-        <a href="#anon2" style="text-decoration: none;">
+        <a href="#jingrui" style="text-decoration: none;">
         <img
-            src="{static}/images/speakers_200x200/anon.jpg"
-            alt="TBA"
-            style="width:88%; margin-bottom:10px; display:block; margin-left:auto; margin-right:auto;"
+            src="{static}/images/speakers_200x200/jingrui_he.jpg"
+            alt="Jingrui He"
+            style="border-radius:50%; width:88%; margin-bottom:10px; display:block; margin-left:auto; margin-right:auto;"
             align="center">
         <div class="caption" style="text-align: center; width:88%; margin-left:auto; margin-right:auto;">
-            <h5 style="text-align: center;">TBA</h5>
-            <p style="text-decoration:none; text-align: center;">TBA
+            <h5 style="text-align: center;">Jingrui He</h5>
+            <p style="text-decoration:none; text-align: center;">Professor at University of Illinois Urbana-Champaign
             </p>
         </div>
         </a>
