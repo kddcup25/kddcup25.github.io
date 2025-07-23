@@ -55,7 +55,7 @@ url: pages/schedule.html
     </ul>
     <li>[10:30-11:00] Keynote talk 3 </li>
     <ul>
-        <li><b>Jingrui He </b></li>
+        <li><b>Jingrui He: Towards Multimodal Understanding on Rich Data IID vs. Non-IID </b></li>
     </ul>
     <li>[11:00-11:05] Q & A </li>
     <li>[11:05–11:35] Team talk 3-4 (15 min each)</li>
