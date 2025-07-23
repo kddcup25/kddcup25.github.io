@@ -1,122 +1,81 @@
-Title: Contributors and Acknowledgements
-Date: 2024-07-26
-SkipNavBar: 1
+Title: Organizers
+Date: 2025-07-22
 save_as: pages/organizers.html
 url: pages/organizers.html
 
-<hr>
+---
 
-Contributors of the CRAG benchmark consists of scientists and engineers from Meta (Reality-Labs, FAIR) and Hong Kong University of Science & Technology (HKUST, HKUST-GZ). They are:
+Organizers of this KDD Cup consists of scientists and engineers from **Meta Reality Labs** and **Meta GenAI**.
 
-Xiao Yang, Kai Sun, Hao Xin, Yushi Sun, Nikita Bhalla, Xiangsen Chen, Sajal Choudhary, Rongze Daniel Gui, Ziran Will Jiang, Ziyu Jiang, Lingkun Kong, Brian Moran, Jiaqi Wang, Yifan Ethan Xu, An Yan, Chenyu Yang, Eting Yuan, Hanwen Zha, Nan Tang, Lei Chen, Nicolas Scheffer, Yue Liu, Nirav Shah, Rakesh Wanga, Anuj Kumar, Wen-tau Yih, Xin Luna Dong
+• Xiao Yang • Jiaqi Wang • Shervin Ghasemlou • Parth Suresh • Adam Czyzewski • Sanat Sharma • Surya Appini • Haidar Khan • Roy Luo • Ziqiang Guan • Juheon Lee • Prashan Wanigasekara • Lingkun Kong • Sajal Choudhary • Tammy Stark • Chen Zhou • Kai Sun • Shane Moon • Nicolas Scheffer • Zhaleh Feizollahi • Mangesh Pujari • Andrea Jessee • Rakesh Wanga • Rohit Patel • Anuj Kumar • Xin Luna Dong
+
+---
 
 ### Workshop Organizers
 
-Please direct all workshop-related questions to: <a href="mailto:crag-kddcup-2024@meta.com">crag-kddcup-2024@meta.com</a>
-
+Please direct all workshop-related questions to: <a href="mailto:crag-kddcup-2025@meta.com">crag-kddcup-2025@meta.com</a>
 
 <div class="container">
 <div class="row display-flex">
 
-    <div class="col-xs-6 col-md-4">
-    <div class="thumbnail">
-        <a href="mailto:xiaoyangfb@meta.com">
-        <img
-            src="{static}/images/headshots_200x200/xiao_yang.jpg"
-            alt="Xiao Yang headshot"
-            style="width:88%"
-            align="center">
-        <div class="caption">
-            <h5>Xiao Yang</h5>
-            <p></p>
-        </div>
-        </a>
-    </div>
-    </div>
-
-
-
-    <div class="col-xs-6 col-md-4">
-    <div class="thumbnail">
-        <a href="https://www.kaisun.org/">
-        <img
-            src="{static}/images/headshots_200x200/kai_sun.jpg"
-            alt="Kai Sun headshot"
-            style="width:88%"
-            align="center">
-        <div class="caption">
-            <h5>Kai Sun</h5>
-            <p></p>
-        </div>
-        </a>
-    </div>
-    </div>
-
-
-
-    <div class="col-xs-6 col-md-4">
-    <div class="thumbnail">
-        <a href="mailto:ethanxu@meta.com">
-        <img
-            src="{static}/images/headshots_200x200/ethan_xu.jpg"
-            alt="Ethan Xu headshot"
-            style="width:88%"
-            align="center">
-        <div class="caption">
-            <h5>Ethan Xu</h5>
-            <p></p>
-        </div>
-        </a>
-    </div>
-    </div>
-
-
-
-    <div class="col-xs-6 col-md-4">
+    <div class="col-xs-6 col-md-3">
     <div class="thumbnail">
         <a href="mailto:jqwang@meta.com">
         <img
             src="{static}/images/headshots_200x200/jiaqi_wang.jpg"
             alt="Jiaqi Wang headshot"
-            style="width:88%"
+            style="width:95%; margin-bottom:10px;"
             align="center">
         <div class="caption">
-            <h5>Jiaqi Wang</h5>
+            <h5 style="text-align: center;">Jiaqi Wang</h5>
             <p></p>
         </div>
         </a>
     </div>
     </div>
 
-
-
-    <div class="col-xs-6 col-md-4">
+    <div class="col-xs-6 col-md-3">
     <div class="thumbnail">
-        <a href="https://scottyih.org/">
+        <a href="mailto:yxia@meta.com">
         <img
-            src="{static}/images/headshots_200x200/scott_yih.jpg"
-            alt="Scott Yih headshot"
-            style="width:88%"
+            src="{static}/images/headshots_200x200/yinglong_xia.jpg"
+            alt="Yinglong Xia headshot"
+            style="width:95%; margin-bottom:10px;"
             align="center">
         <div class="caption">
-            <h5>Scott Yih </h5>
+            <h5 style="text-align: center;">Yinglong Xia</h5>
             <p></p>
         </div>
         </a>
     </div>
     </div>
 
-
-    <div class="col-xs-6 col-md-4">
+    <div class="col-xs-6 col-md-3">
     <div class="thumbnail">
-        <a href="https://lunadong.com/">
+        <a href="mailto:sanatsharma@meta.com">
         <img
-            src="{static}/images/headshots_200x200/luna_dong.jpg"
-            alt="Luna Dong headshot"
-            style="width:88%"
+            src="{static}/images/headshots_200x200/sanat_sharma.jpg"
+            alt="Sanat Sharma headshot"
+            style="width:95%; margin-bottom:10px;"
             align="center">
         <div class="caption">
-            <h5>Luna Dong</h5>
+            <h5 style="text-align: center;">Sanat Sharma</h5>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+    <div class="col-xs-6 col-md-3">
+    <div class="thumbnail">
+        <a href="mailto:parthsuresh@meta.com">
+        <img
+            src="{static}/images/headshots_200x200/parth_suresh.jpg"
+            alt="Parth Suresh headshot"
+            style="width:95%; margin-bottom:10px;"
+            align="center">
+        <div class="caption">
+            <h5 style="text-align: center;">Parth Suresh</h5>
             <p></p>
         </div>
         </a>
@@ -125,7 +84,8 @@ Please direct all workshop-related questions to: <a href="mailto:crag-kddcup-202
 
 </div>
 </div>
-<br />
+
+---
 
 ### Acknowledgements
 

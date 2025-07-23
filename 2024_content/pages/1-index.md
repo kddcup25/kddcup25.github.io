@@ -311,17 +311,6 @@ The **KDD Cup** is an annual **data mining and knowledge discovery competition**
 
 ---
 
-## 📱 Contact
-
-For inquiries, contact:
-📧 **crag-kddcup-2025@meta.com**
-
-Organizers of this KDD Cup consists of scientists and engineers from **Meta Reality Labs** and **Meta GenAI**. They are:
-
-• Xiao Yang • Jiaqi Wang • Shervin Ghasemlou • Parth Suresh • Adam Czyzewski • Sanat Sharma • Surya Appini • Haidar Khan • Roy Luo • Ziqiang Guan • Juheon Lee • Prashan Wanigasekara • Lingkun Kong • Sajal Choudhary • Tammy Stark • Chen Zhou • Kai Sun • Shane Moon • Nicolas Scheffer • Zhaleh Feizollahi • Mangesh Pujari • Andrea Jessee • Rakesh Wanga • Rohit Patel • Anuj Kumar • Xin Luna Dong
-
----
-
 ## 🗂️ Related Work
 
 To the best of our knowledge, the Meta CRAG-MM challenge is the first MM-RAG challenge for KDD Cups and broadly. CRAG-MM uniquely features natural uses cases for wearable devices based on egocentric images. Moreover, it encompasses a variety of domains and question types, effectively evaluating different capabilities of MM-RAG systems: entity recognition, OCR, query rewrite, answer generation, and so on. Furthermore, CRAG-MM extends beyond single-turn QA by including multi-turn conversations, a common and critical use case for smart assistant.
