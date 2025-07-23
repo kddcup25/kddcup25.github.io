@@ -9,15 +9,15 @@ Date: 2025-07-22
     <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
     <div class="col-xs-6 col-md-4">
     <div class="thumbnail">
-        <a href="#jianwei">
+        <a href="#jianwei" style="text-decoration: none;">
         <img
             src="{static}/images/speakers_200x200/jianwei_yang.jpg"
             alt="Jianwei Yang"
-            style="width:88%; margin-bottom:10px;"
+            style="width:88%; margin-bottom:10px; display:block; margin-left:auto; margin-right:auto;"
             align="center">
-        <div class="caption">
-            <h5>Jianwei Yang</h5>
-            <p style="text-decoration:none;">Meta SuperIntelligence Labs, Research Scientist</p>
+        <div class="caption" style="text-align: center; width:88%; margin-left:auto; margin-right:auto;">
+            <h5 style="text-align: center;">Jianwei Yang</h5>
+            <p style="text-decoration:none; text-align: center;">Meta SuperIntelligence Labs, Research Scientist</p>
         </div>
         </a>
     </div>
@@ -27,15 +27,15 @@ Date: 2025-07-22
     <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
     <div class="col-xs-6 col-md-4">
     <div class="thumbnail">
-        <a href="#anon">
+        <a href="#anon" style="text-decoration: none;">
         <img
             src="{static}/images/speakers_200x200/anon.jpg"
             alt="TBA"
-            style="width:88%; margin-bottom:10px;"
+            style="width:88%; margin-bottom:10px; display:block; margin-left:auto; margin-right:auto;"
             align="center">
-        <div class="caption">
-            <h5>TBA</h5>
-            <p style="text-decoration:none;">TBA
+        <div class="caption" style="text-align: center; width:88%; margin-left:auto; margin-right:auto;">
+            <h5 style="text-align: center;">TBA</h5>
+            <p style="text-decoration:none; text-align: center;">TBA
             </p>
         </div>
         </a>
@@ -45,15 +45,15 @@ Date: 2025-07-22
     <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
     <div class="col-xs-6 col-md-4">
     <div class="thumbnail">
-        <a href="#anon2">
+        <a href="#anon2" style="text-decoration: none;">
         <img
             src="{static}/images/speakers_200x200/anon.jpg"
             alt="TBA"
-            style="width:88%; margin-bottom:10px;"
+            style="width:88%; margin-bottom:10px; display:block; margin-left:auto; margin-right:auto;"
             align="center">
-        <div class="caption">
-            <h5>TBA</h5>
-            <p style="text-decoration:none;">TBA
+        <div class="caption" style="text-align: center; width:88%; margin-left:auto; margin-right:auto;">
+            <h5 style="text-align: center;">TBA</h5>
+            <p style="text-decoration:none; text-align: center;">TBA
             </p>
         </div>
         </a>

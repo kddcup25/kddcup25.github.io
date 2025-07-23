@@ -20,13 +20,13 @@ Please direct all workshop-related questions to: <a href="mailto:crag-kddcup-202
 
     <div class="col-xs-6 col-md-3">
     <div class="thumbnail">
-        <a href="mailto:jqwang@meta.com">
+        <a href="mailto:jqwang@meta.com" style="text-decoration: none;">
         <img
             src="{static}/images/headshots_200x200/jiaqi_wang.jpg"
             alt="Jiaqi Wang headshot"
-            style="width:95%; margin-bottom:10px;"
+            style="width:95%; margin-bottom:10px; display:block; margin-left:auto; margin-right:auto;"
             align="center">
-        <div class="caption">
+        <div class="caption" style="width:95%; margin-left:auto; margin-right:auto;">
             <h5 style="text-align: center;">Jiaqi Wang</h5>
             <p></p>
         </div>
@@ -36,13 +36,13 @@ Please direct all workshop-related questions to: <a href="mailto:crag-kddcup-202
 
     <div class="col-xs-6 col-md-3">
     <div class="thumbnail">
-        <a href="mailto:yxia@meta.com">
+        <a href="mailto:yxia@meta.com" style="text-decoration: none;">
         <img
             src="{static}/images/headshots_200x200/yinglong_xia.jpg"
             alt="Yinglong Xia headshot"
-            style="width:95%; margin-bottom:10px;"
+            style="width:95%; margin-bottom:10px; display:block; margin-left:auto; margin-right:auto;"
             align="center">
-        <div class="caption">
+        <div class="caption" style="width:95%; margin-left:auto; margin-right:auto;">
             <h5 style="text-align: center;">Yinglong Xia</h5>
             <p></p>
         </div>
@@ -52,13 +52,13 @@ Please direct all workshop-related questions to: <a href="mailto:crag-kddcup-202
 
     <div class="col-xs-6 col-md-3">
     <div class="thumbnail">
-        <a href="mailto:sanatsharma@meta.com">
+        <a href="mailto:sanatsharma@meta.com" style="text-decoration: none;">
         <img
             src="{static}/images/headshots_200x200/sanat_sharma.jpg"
             alt="Sanat Sharma headshot"
-            style="width:95%; margin-bottom:10px;"
+            style="width:95%; margin-bottom:10px; display:block; margin-left:auto; margin-right:auto;"
             align="center">
-        <div class="caption">
+        <div class="caption" style="width:95%; margin-left:auto; margin-right:auto;">
             <h5 style="text-align: center;">Sanat Sharma</h5>
             <p></p>
         </div>
@@ -68,13 +68,13 @@ Please direct all workshop-related questions to: <a href="mailto:crag-kddcup-202
 
     <div class="col-xs-6 col-md-3">
     <div class="thumbnail">
-        <a href="mailto:parthsuresh@meta.com">
+        <a href="mailto:parthsuresh@meta.com" style="text-decoration: none;">
         <img
             src="{static}/images/headshots_200x200/parth_suresh.jpg"
             alt="Parth Suresh headshot"
-            style="width:95%; margin-bottom:10px;"
+            style="width:95%; margin-bottom:10px; display:block; margin-left:auto; margin-right:auto;"
             align="center">
-        <div class="caption">
+        <div class="caption" style="width:95%; margin-left:auto; margin-right:auto;">
             <h5 style="text-align: center;">Parth Suresh</h5>
             <p></p>
         </div>
