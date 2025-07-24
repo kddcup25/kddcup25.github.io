@@ -81,9 +81,9 @@
             {% endif %}
             {% if page.title|length > 1 and not page.skipnavbar is defined %}
             {% if page.url.startswith("http:") or page.url.startswith("https:") %}
-            <li class="list-inline-item"><a href="{{ page.url }}">{{ page.title }}</a></li>
+            <li class="list-inline-item"><a href="{{ page.url }}">{{ page.title|title }}</a></li>
             {% else %}
-            <li class="list-inline-item"><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
+            <li class="list-inline-item"><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title|title }}</a></li>
             {% endif %}
             {% endif %}
             {% if page.title|length == 1 and not page.skipnavbar is defined %}
