@@ -319,6 +319,17 @@ To the best of our knowledge, the Meta CRAG-MM challenge is the first MM-RAG cha
 
 ---
 
+## 📱 Contact
+
+For inquiries, contact:
+📧 [**crag-kddcup-2025@meta.com**](mailto:crag-kddcup-2025@meta.com)
+
+Organizers of this KDD Cup consists of scientists and engineers from **Meta Reality Labs** and **Meta GenAI**. They are:
+
+• Xiao Yang • Jiaqi Wang • Shervin Ghasemlou • Parth Suresh • Adam Czyzewski • Sanat Sharma • Surya Appini • Haidar Khan • Roy Luo • Ziqiang Guan • Juheon Lee • Prashan Wanigasekara • Lingkun Kong • Sajal Choudhary • Tammy Stark • Chen Zhou • Kai Sun • Shane Moon • Nicolas Scheffer • Zhaleh Feizollahi • Mangesh Pujari • Andrea Jessee • Rakesh Wanga • Rohit Patel • Anuj Kumar • Xin Luna Dong
+
+---
+
 ## 📕 References
 
 [1] Qiu et al., **"SnapNTell: Enhancing Entity-Centric Visual Question Answering with Retrieval Augmented Multimodal LLM"**. Available at: [https://aclanthology.org/2024.findings-emnlp.14/](https://aclanthology.org/2024.findings-emnlp.14/)
