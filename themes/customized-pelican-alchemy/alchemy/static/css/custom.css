@@ -48,3 +48,8 @@ p.text-muted {
 .header ul {
   text-transform: none;
 }
+
+/* Add margin between title and navbar */
+.header .list-inline {
+  margin-top: 1rem;
+}
