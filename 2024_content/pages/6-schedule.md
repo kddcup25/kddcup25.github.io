@@ -11,7 +11,9 @@ url: pages/schedule.html
 <div class="col-md-10">
     <p>The goal of this workshop is to engage in a detailed discussion on multimodal retrieval-augmented generation (RAG), with a special focus on the standout solutions from the KDD Cup 2025 on Comprehensive RAG for Multi-Modal, Multi-Turn Challenge. The workshop is an in-person event co-located with <a href="https://kdd2025.kdd.org/">KDD 2025</a> in Toronto, Canada on Monday, August 04, 2025. See <a href="">paper submission</a>, <a href="https://kdd2025.kdd.org/registration/">registration</a>, <a href="https://kdd2025.kdd.org/hotel-information/">hotel</a>, and <a href="https://kdd2025.kdd.org/venue-details/">venue details</a> for attending.
     </p>
-    <p>The event will run from 08:00 to 12:00, with a coffee break (and poster session) scheduled from 09:30 to 10:00.
+    <p>The event will run from 08:00 to 12:00, with a coffee break (and poster session) scheduled from 09:30 to 10:00. 
+    </p>
+    <p>Location: <b>Toronto Convention Centre, 712</b>. 
     </p>
 </div>
 
@@ -30,7 +32,6 @@ url: pages/schedule.html
     <col width="20%" />
     <col width="80%" />
     <tbody>
-<tr> <td>07:30-08:00</td> <td>Poster setup</td></tr>
 <tr> <td>08:00–09:30</td> <td>Session 1
 <ul>
     <li>[08:00-08:30] Opening remarks and competition summary </li>
