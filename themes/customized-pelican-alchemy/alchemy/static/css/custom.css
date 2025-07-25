@@ -43,3 +43,13 @@ p.text-muted {
   padding-top: 20px;
   padding-bottom: 20px;
 }
+
+/* Override the lowercase transformation for navbar items */
+.header ul {
+  text-transform: none;
+}
+
+/* Add margin between title and navbar */
+.header .list-inline {
+  margin-top: 1rem;
+}
