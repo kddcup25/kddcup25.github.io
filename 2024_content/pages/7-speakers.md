@@ -20,9 +20,18 @@ Date: 2025-07-22
 
     <div class="col-xs-12 col-md-8">
         <h2><strong>Dhruv Batra</strong></h2>
-        <p style="font-size:16px"><strong><em>Bio:</em></strong> Co-founder and Chief Scientist, Yutori | Prev: Senior Director leading FAIR Embodied AI and Associate Professor at Georgia Tech </p>
-        <p><strong>Title:</strong> Digital Assistants and Web Agents</p>
-        <p style="font-size:16px"><strong><em>Abstract:</em></strong> TBA</p>
+        <p style="font-size:16px"><strong><em>Bio:</em></strong> 
+        Dhruv Batra is a co-founder and the Chief Scientist of Yutori. 
+
+        Previously, he was a Senior Director leading Embodied AI at the Fundamental AI Research (FAIR) team at Meta, and an Associate Professor in the School of Interactive Computing at Georgia Tech. 
+        </p>
+        <p>
+        He works on understanding and advancing the limits of artificial intelligence (AI). More specifically, his research lies at the intersection of machine learning and computer vision, with forays into robotics and natural language processing. 
+        </p>
+        <p>
+        He is a recipient of the Presidential Early Career Award for Scientists and Engineers (PECASE) (2019), the Early Career Award for Scientists and Engineers by the US Army (ECASE-Army) (2018), the Office of Naval Research (ONR) Young Investigator Program (YIP) award (2017), the National Science Foundation (NSF) CAREER award (2014), Army Research Office (ARO) Young Investigator Program (YIP) award (2014), Outstanding Junior Faculty awards from Georgia Tech (2018) and Virginia Tech (2015), multiple research awards from industry (Google, Amazon, Facebook), Carnegie Mellon Dean's Fellowship (2007), best paper awards/nominations in every area of AI (ICRA 2024, ICLR 2023, CVPR 2022, ICCV 2019, EMNLP 2017) and teaching commendations. His research is supported by NSF, ARO, ARL, ONR, DARPA, Amazon, Google, Microsoft, and NVIDIA. Research from his lab has been extensively covered in the media (with varying levels of accuracy) at CNN, BBC, CNBC, Bloomberg Business, The Boston Globe, MIT Technology Review, Newsweek, The Verge, New Scientist, and NPR. 
+        </p>
+        <p><strong>Title:</strong> Scouts: multi-modal agentic search for monitoring the web</p>
     </div>
 </div>
 
