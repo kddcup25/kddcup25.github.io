@@ -1,4 +1,4 @@
-Title: Workshop Organizers
+Title: Workshop Committee
 Date: 2025-07-22
 save_as: pages/organizers.html
 url: pages/organizers.html
@@ -81,21 +81,6 @@ Please direct all workshop-related questions to: <a href="mailto:crag-kddcup-202
     <div class="col-xs-6 col-md-4">
     <div class="thumbnail" style="height: 100%; display: flex; flex-direction: column;">
         <img
-            src="{static}/images/headshots_200x200/jiaqi_wang.jpg"
-            alt="Jiaqi Wang headshot"
-            style="border-radius:50%; width:60%; margin-bottom:10px; display:block; margin-left:auto; margin-right:auto;"
-            align="center">
-        <div class="caption" style="width:88%; margin-left:auto; margin-right:auto; flex-grow: 1;">
-            <h5 style="text-align: center;">Jiaqi Wang</h5>
-            <p style="text-decoration:none; text-align: center;">Machine Learning Engineer at Meta Reality Lab</p>
-            <p></p>
-        </div>
-    </div>
-    </div>
-
-    <div class="col-xs-6 col-md-4">
-    <div class="thumbnail" style="height: 100%; display: flex; flex-direction: column;">
-        <img
             src="{static}/images/headshots_200x200/xiao_yang.jpg"
             alt="Xiao Yang headshot"
             style="border-radius:50%; width:60%; margin-bottom:10px; display:block; margin-left:auto; margin-right:auto;"
@@ -122,6 +107,22 @@ Please direct all workshop-related questions to: <a href="mailto:crag-kddcup-202
         </div>
     </div>
     </div>
+
+    <div class="col-xs-6 col-md-4">
+    <div class="thumbnail" style="height: 100%; display: flex; flex-direction: column;">
+        <img
+            src="{static}/images/headshots_200x200/jiaqi_wang.jpg"
+            alt="Jiaqi Wang headshot"
+            style="border-radius:50%; width:60%; margin-bottom:10px; display:block; margin-left:auto; margin-right:auto;"
+            align="center">
+        <div class="caption" style="width:88%; margin-left:auto; margin-right:auto; flex-grow: 1;">
+            <h5 style="text-align: center;">Jiaqi Wang</h5>
+            <p style="text-decoration:none; text-align: center;">Machine Learning Engineer at Meta Reality Lab</p>
+            <p></p>
+        </div>
+    </div>
+    </div>
+
 
     <div class="col-xs-6 col-md-4">
     <div class="thumbnail" style="height: 100%; display: flex; flex-direction: column;">
