@@ -52,11 +52,11 @@ url: pages/schedule.html
         <li><b><a href="keynotes.html#jingrui-he">Jingrui He: Towards Multimodal Understanding on Rich Data IID vs. Non-IID</a></b></li>
     </ul>
     <li>[10:35–11:05] Participation teams - talk 3-4 (15 min each)</li>
-    <li>[11:05-11:35] Keynote talk 3 </li>
+    <li>[11:05–11:25] Participation teams - spotlight talks (5 min each)</li>
+    <li>[11:25-11:55] Keynote talk 3 </li>
     <ul>
         <li><b><a href="keynotes.html#dhruv-batra">Dhruv Batra: Scouts: multi-modal agentic search for monitoring the web</a></b></li>
     </ul>
-    <li>[11:35–11:55] Participation teams - spotlight talks (5 min each)</li>
 </ul>
 </td></tr>
 <tr> <td>11:55–12:00</td> <td>Closing remarks</td></tr>
