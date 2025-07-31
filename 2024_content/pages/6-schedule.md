@@ -88,8 +88,3 @@ url: pages/schedule.html
   </tbody>
     </table>
 </div>
-
-<div class="col-md-10">
-    <p>*Note that the schedule is subject to change.
-    </p>
-</div>
