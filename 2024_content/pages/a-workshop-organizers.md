@@ -133,7 +133,8 @@ Please direct all workshop-related questions to: <a href="mailto:crag-kddcup-202
             align="center">
         <div class="caption" style="width:88%; margin-left:auto; margin-right:auto; flex-grow: 1;">
             <h5 style="text-align: center;">Sanat Sharma</h5>
-            <p style="text-decoration:none; text-align: center;">Senior Research Engineer at Meta Wearables | ex Adobe ML, Microsoft Cortana</p>
+            <p style="text-decoration:none; text-align: center;">Senior Research Engineer at Meta Reality Lab | ex Adobe ML, Microsoft Cortana
+            </p>
             <p></p>
         </div>
     </div>
