@@ -110,6 +110,21 @@ Please direct all workshop-related questions to: <a href="mailto:crag-kddcup-202
     </div>
     </div>
 
+    <div class="col-xs-6 col-md-4">
+    <div class="thumbnail" style="height: 100%; display: flex; flex-direction: column;">
+        <img
+            src="{static}/images/headshots_200x200/shane_moon.jpg"
+            alt="shane moon headshot"
+            style="border-radius:50%; width:60%; margin-bottom:10px; display:block; margin-left:auto; margin-right:auto;"
+            align="center">
+        <div class="caption" style="width:88%; margin-left:auto; margin-right:auto; flex-grow: 1;">
+            <h5 style="text-align: center;">Shane Moon</h5>
+            <p style="text-decoration:none; text-align: center;">Research Scientist at Meta Reality Lab</p>
+            <p></p>
+        </div>
+    </div>
+    </div>
+
 
     <div class="col-xs-6 col-md-4">
     <div class="thumbnail" style="height: 100%; display: flex; flex-direction: column;">
@@ -126,20 +141,6 @@ Please direct all workshop-related questions to: <a href="mailto:crag-kddcup-202
     </div>
     </div>
 
-    <div class="col-xs-6 col-md-4">
-    <div class="thumbnail" style="height: 100%; display: flex; flex-direction: column;">
-        <img
-            src="{static}/images/headshots_200x200/shane_moon.jpg"
-            alt="shane moon headshot"
-            style="border-radius:50%; width:60%; margin-bottom:10px; display:block; margin-left:auto; margin-right:auto;"
-            align="center">
-        <div class="caption" style="width:88%; margin-left:auto; margin-right:auto; flex-grow: 1;">
-            <h5 style="text-align: center;">Shane Moon</h5>
-            <p style="text-decoration:none; text-align: center;">Research Scientist at Meta Reality Lab</p>
-            <p></p>
-        </div>
-    </div>
-    </div>
 
 
     <div class="col-xs-6 col-md-4">
