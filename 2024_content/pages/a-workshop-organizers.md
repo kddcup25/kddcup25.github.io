@@ -125,7 +125,6 @@ Please direct all workshop-related questions to: <a href="mailto:crag-kddcup-202
     </div>
     </div>
 
-
     <div class="col-xs-6 col-md-4">
     <div class="thumbnail" style="height: 100%; display: flex; flex-direction: column;">
         <img
@@ -135,13 +134,11 @@ Please direct all workshop-related questions to: <a href="mailto:crag-kddcup-202
             align="center">
         <div class="caption" style="width:88%; margin-left:auto; margin-right:auto; flex-grow: 1;">
             <h5 style="text-align: center;">Scott Yih</h5>
-            <p style="text-decoration:none; text-align: center;">Research Scientist at Meta FAIR</p>
+            <p style="text-decoration:none; text-align: center;">Research Scientist at Meta FAIR<span style="visibility: hidden;"> | Research Scientist at Meta FAIR</span></p>
             <p></p>
         </div>
     </div>
     </div>
-
-
 
     <div class="col-xs-6 col-md-4">
     <div class="thumbnail" style="height: 100%; display: flex; flex-direction: column;">
