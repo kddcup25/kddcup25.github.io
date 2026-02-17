@@ -51,5 +51,5 @@ p.text-muted {
 
 /* Add margin between title and navbar */
 .header .list-inline {
-  margin-top: 1rem;
+  margin-top: 0.5rem;
 }
