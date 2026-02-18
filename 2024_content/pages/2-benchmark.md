@@ -1,7 +1,6 @@
-Title: CRAG Paper
+Title: CRAG-MM Paper
 Date: 2024-07-26
-SkipNavBar: 1
-url: https://arxiv.org/abs/2406.04744
+url: https://arxiv.org/abs/2510.26160
 
-Redirecting to <a href="https://arxiv.org/abs/2406.04744">https://arxiv.org/abs/2406.04744</a> in 5 seconds...
-    <meta http-equiv="refresh" content="3;url=https://arxiv.org/abs/2406.04744">
+Redirecting to <a href="https://arxiv.org/abs/2510.26160">https://arxiv.org/abs/2510.26160</a> in 5 seconds...
+    <meta http-equiv="refresh" content="3;url=https://arxiv.org/abs/2510.26160">

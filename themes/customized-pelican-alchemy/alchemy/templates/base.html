@@ -69,7 +69,11 @@
           {% if SITESUBTITLE %}
           <p class="text-muted">{{ SITESUBTITLE }}</p>
           {% endif %}
-          {% if LINKS or (DISPLAY_PAGES_ON_MENU and pages) or ICONS %}
+        </div>
+      </div>
+      {% if LINKS or (DISPLAY_PAGES_ON_MENU and pages) or ICONS %}
+      <div class="row">
+        <div class="col-12">
           <ul class="list-inline">
             {% for title, link in LINKS %}
             <li class="list-inline-item"><a href="{{ link }}" target="_blank">{{ title }}</a></li>
@@ -98,9 +102,9 @@
             <li class="list-inline-item"><a class="fa fa-{{ icon }}" href="{{ link }}" target="_blank"></a></li>
             {% endfor %}
           </ul>
-          {% endif %}
         </div>
       </div>
+      {% endif %}
     </div>
   </header>
 
